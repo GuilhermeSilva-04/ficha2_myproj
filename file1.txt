@@ -1,4 +1,7 @@
+
 Alteração no branch MASTER
+
+Alteração no branch NOVAFEATURE
 
 
 Eleminei a primeira linha e escrevi esta

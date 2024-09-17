@@ -3,9 +3,14 @@
 Este é o exemplo de um ficheiro de texto file3
 
 
+<<<<<<< HEAD
 uma cena qualquer
 
 
 mudar cenas aqui dentro
 
 
+=======
+mudar cenas aqui dentro
+
+>>>>>>> novafeature
