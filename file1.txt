@@ -1,7 +1,7 @@
 
 Eleminei a primeira linha e escrevi esta
 
-
+:(
 
 
 Fiz uma alteração dentro do ficheiro file1
